@@ -1,5 +1,7 @@
 --[[ ==========  Executed Check  ========== ]]
 
+print("GG")
+
 if getgenv().evov2 then
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "AlexHub",
